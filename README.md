@@ -24,7 +24,7 @@ This dashboard combines **machine learning**, **NLP**, and **data visualization*
 
 ---
 
-### Quick Links
+## Quick Links !!
 
 Milestone 1: https://github.com/AdityaAdke123/Milestone_Sem2_IDS
 
