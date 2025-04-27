@@ -1,5 +1,9 @@
 # Milestone 3
 
+![image](https://github.com/user-attachments/assets/1c8c237f-c447-44f3-ba12-285ef48fcf12)
+
+![image](https://github.com/user-attachments/assets/5e0926f3-251c-4b64-9975-cc0ceb2de842)
+
 # 🍳 FlavourAI: Personalized Recipe Recommender & Insights
 
 Welcome to **Milestone 3** of the Food Recipe Recommendation project!  
