@@ -36,84 +36,82 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 
 
-Open the provided localhost URL in your browser to explore the dashboard.
+---
 
-🚀 Features
-Nutrient-Based Recommendations:
-Select nutrients like Calories, Protein, Fat, etc., and choose desired levels (Low, Medium, High, Very High).
+## 🚀 Features
 
-The model predicts and recommends top matching recipes using Logistic Regression.
+### 🔹 Nutrient-Based Recommendations:
+- Select nutrients like **Calories**, **Protein**, **Fat**, etc., and choose desired levels (**Low**, **Medium**, **High**, **Very High**).
+- The model predicts and recommends top matching recipes using **Logistic Regression**.
 
-Keyword-Based Recommendations:
-Enter phrases like "spicy chicken low carb" and receive personalized recipe suggestions using TF-IDF Vectorization and Cosine Similarity.
+### 🔹 Keyword-Based Recommendations:
+- Enter phrases like _"spicy chicken low carb"_ and receive personalized recipe suggestions using **TF-IDF Vectorization** and **Cosine Similarity**.
 
-Review Visualizations:
+### 🔹 Review Visualizations:
 Explore interactive charts on user reviews, including:
+- Rating distributions.
+- Review trends over the years.
+- Average ratings by year.
+- Top reviewers.
 
-Rating distributions.
-
-Review trends over the years.
-
-Average ratings by year.
-
-Top reviewers.
-
-Recipe Data Visualizations:
+### 🔹 Recipe Data Visualizations:
 Pre-generated insightful plots:
+- Top recipe categories.
+- Nutrient correlation heatmaps.
+- Common ingredients.
+- Average cook times by category.
 
-Top recipe categories.
+---
 
-Nutrient correlation heatmaps.
+## 📊 Model Integration and Evaluation
 
-Common ingredients.
+- **Logistic Regression** is used for nutrient-level classification to recommend relevant recipes.
+- **Fallback Strategy:** If no exact nutrient matches are found, the model suggests recipes based on **probability scores** for best alternatives.
+- **Keyword Matching:** Utilizes **TF-IDF** and **Cosine Similarity** for effective text-based recommendations.
 
-Average cook times by category.
+---
 
-📊 Model Integration and Evaluation
-Logistic Regression is used for nutrient-level classification to recommend relevant recipes.
+## 🎥 Demonstration
 
-Fallback Strategy: If no exact nutrient matches are found, the model suggests recipes based on probability scores for best alternatives.
+### 🎬 Main Dashboard Walkthrough:
+🎥 `M3_Tool_Presentation.mp4`
 
-Keyword Matching: Utilizes TF-IDF and Cosine Similarity for effective text-based recommendations.
+### 🎬 Keyword-Based Recommendation Demo:
+🎥 `M_2_Food and Recipes Recommender.mp4`
 
-🎥 Demonstration
-Main Dashboard Walkthrough:
-🎥 M3_Tool_Presentation.mp4
+---
 
-Keyword-Based Recommendation Demo:
-🎥 M_2_Food and Recipes Recommender.mp4
+## 📝 Final Report
 
-📝 Final Report
 Comprehensive documentation of the project's:
+- Problem statement.
+- Data preprocessing.
+- Model training and evaluation.
+- Visualizations.
+- Insights and conclusions.
 
-Problem statement.
+📄 `Milestone_1_2_3 Final Report.pdf`
 
-Data preprocessing.
+---
 
-Model training and evaluation.
+## 🔮 Future Scope
 
-Visualizations.
+- Integrate **ensemble models** or **deep learning** for better accuracy.
+- Deploy the app on **Heroku**, **AWS**, or **Streamlit Cloud**.
+- Add **user authentication** for personalized dashboards.
+- Connect to **real-time recipe APIs** for dynamic content.
+- Implement **feedback loops** to continuously improve recommendations.
 
-Insights and conclusions.
+---
 
-📄 Milestone_1_2_3 Final Report.pdf
+## 🤝 Acknowledgments
 
-🔮 Future Scope
-Integrate ensemble models or deep learning for better accuracy.
+- Part of the **Applied Data Science** coursework.
+- Special thanks to mentors, peers, and reviewers for their invaluable feedback.
 
-Deploy the app on Heroku, AWS, or Streamlit Cloud.
+---
 
-Add user authentication for personalized dashboards.
+## 📌 Contact
 
-Connect to real-time recipe APIs for dynamic content.
-
-Implement feedback loops to continuously improve recommendations.
-
-🤝 Acknowledgments
-Part of the Applied Data Science coursework.
-
-Special thanks to mentors, peers, and reviewers for their invaluable feedback.
-
-📌 Contact
-Feel free to reach out via GitHub issues or contact:
-📧 Aditya Adke
+Feel free to reach out via GitHub issues or contact:  
+📧 **Aditya Adke**
