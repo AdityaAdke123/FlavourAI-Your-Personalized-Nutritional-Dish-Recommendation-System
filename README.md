@@ -21,6 +21,12 @@ This dashboard combines **machine learning**, **NLP**, and **data visualization*
 git clone https://github.com/AdityaAdke123/Milestone_3.git
 cd Milestone_3
 
+2. Install dependencies:
+pip install -r requirements.txt
+
+3. Run the app:
+streamlit run src/streamlit_app.py
+
 ---
 
 ## 📂 Repository Structure
