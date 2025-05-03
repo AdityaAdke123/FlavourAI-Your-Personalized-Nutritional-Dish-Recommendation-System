@@ -15,6 +15,14 @@ This dashboard combines **machine learning**, **NLP**, and **data visualization*
 
 ---
 
+## How to Set Up
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/Milestone_3.git
+cd Milestone_3
+
+---
+
 ## 📂 Repository Structure
 
 | File/Folder                           | Description                                                             |
