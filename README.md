@@ -31,14 +31,16 @@ streamlit run src/streamlit_app.py
 
 ## 📂 Repository Structure
 
-| File/Folder                           | Description                                                             |
-|----------------------------------------|-------------------------------------------------------------------------|
-| `M3_Tool_Presentation.mp4`             | Demonstration video of the final dashboard.                            |
-| `M_2_Food and Recipes Recommender.mp4` | Supplementary video showing keyword-based recommendation features.     |
-| `Milestone_1_2_3 Final Report.pdf`     | Comprehensive report covering all project milestones.                  |
-| `Milestone_3.ipynb`                    | Jupyter notebook with model training, evaluation, and visualizations.  |
-| `streamlit_app.py`                     | Streamlit dashboard source code.                                       |
-| `README.md`                            | This documentation file.                                               |
+| File/Folder                         | Description                                                             |
+|------------------------------------|------------------------------------------------------------------------|
+| `Aditya_Food_Recommendation.pptx`  | Presentation slides summarizing the project.                            |
+| `M3_Tool_Presentation.mp4`         | Demonstration video of the final dashboard.                             |
+| `M_2_Food and Recipes Recommender (2).mp4` | Supplementary video showing keyword-based recommendation features.     |
+| `Milestone_1_2_3 Final Report.pdf`  | Comprehensive report covering all project milestones.                   |
+| `Milestone_3.ipynb`                 | Jupyter notebook with model training, evaluation, and visualizations.   |
+| `streamlit_app.py`                  | Streamlit dashboard source code.                                        |
+| `requirements.txt`                  | Required dependencies for running the app.                              |
+| `README.md`                         | This documentation file.                                                |
 
 ---
 
