@@ -4,6 +4,8 @@ Tool Demonstration Video: https://drive.google.com/file/d/1CzcozukQnaJ-uTYTQHcNK
 
 Presentation Video: https://drive.google.com/file/d/1JXfAD4ReUV7Pmt4-mGYARzQiHWggLQMk/view?usp=sharing
 
+Presentation Slides: https://docs.google.com/presentation/d/15VPB_CoVp9d_tQhNIGOSl-j4VZ-kvGqf/edit?usp=sharing&ouid=104885038221250799792&rtpof=true&sd=true
+
 ![image](https://github.com/user-attachments/assets/1c8c237f-c447-44f3-ba12-285ef48fcf12)
 
 ![image](https://github.com/user-attachments/assets/5e0926f3-251c-4b64-9975-cc0ceb2de842)
