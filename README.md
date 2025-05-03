@@ -98,7 +98,6 @@ Pre-generated insightful plots:
 ## 📊 Model Integration and Evaluation
 
 - **Logistic Regression** is used for nutrient-level classification to recommend relevant recipes.
-- **Fallback Strategy:** If no exact nutrient matches are found, the model suggests recipes based on **probability scores** for best alternatives.
 - **Keyword Matching:** Utilizes **TF-IDF** and **Cosine Similarity** for effective text-based recommendations.
 
 ---
